@@ -21,7 +21,7 @@ dosbox_svn libretro-dosbox_svn https://github.com/libretro/dosbox-svn libretro Y
 dosbox_svn_ce libretro-dosbox_svn_ce https://github.com/libretro/dosbox-svn community-patches YES GENERIC Makefile.libretro libretro target=arm WITH_FAKE_SDL=1
 easyrpg libretro-easyrpg https://github.com/EasyRPG/Player.git master YES CMAKE Makefile build
 ecwolf libretro-ecwolf https://github.com/libretro/ecwolf.git master YES GENERIC Makefile src/libretro
-fbneo libretro-fbneo https://github.com/libretro/FBNeo.git master YES GENERIC Makefile src/burner/libretro
+fbneo libretro-fbneo https://github.com/aleksei74/FBNeo.git master YES GENERIC Makefile src/burner/libretro
 fbalpha2012 libretro-fbalpha2012 https://github.com/libretro/fbalpha2012.git master YES GENERIC makefile.libretro svn-current/trunk
 fbalpha2012_cps1 libretro-fbalpha2012_cps1 https://github.com/libretro/fbalpha2012_cps1.git master YES GENERIC makefile.libretro .
 fbalpha2012_cps2 libretro-fbalpha2012_cps2 https://github.com/libretro/fbalpha2012_cps2.git master YES GENERIC makefile.libretro .
