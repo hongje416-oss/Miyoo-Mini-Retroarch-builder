@@ -1,1 +1,1 @@
-fbneo libretro-fbneo https://github.com/aleksei74/FBNeo.git master YES GENERIC Makefile src/burner/libretro
+fbneo libretro-fbneo https://github.com/hongje416-oss/FBNeo.git master YES GENERIC Makefile src/burner/libretro
